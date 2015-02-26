@@ -1,13 +1,12 @@
-The aim of this example is to demo to beginners on how to;
->> unit test for JS With Jasmine.
->> run jasmine test suite with using Karma.
->> generate unit test coverage reports.
->> run static code analysis with JSHInt.
->> automate all the above steps with GRUNT.
+The aim of this example is to demo to beginners on how to
+Unit test for JS With Jasmine.
+Generate unit test coverage reports.
+Run static code analysis with JSHInt.
+Automate all the above steps with GRUNT.
 
 
 To install the required tools, add the items in dependencies in package.json.
-open command prompt and run the below command
+Open command prompt and run the below command.
 "npm install"
 
 Once the command has successfully completed, installed items can be viewed in the folder node_modules.
