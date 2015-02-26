@@ -1,0 +1,6 @@
+Gruntfile.js
+karma.conf.js
+test/spec/sqrtSpec.js
+test/spec/tut1Spec.js
+test/spec/tut2Spec.js
+test/spec/tut3Spec.js

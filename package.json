@@ -1,0 +1,25 @@
+{
+    "name": "jasmin-karma-istanbul-jshint",
+    "description": "Example of JS HA",
+    "main": "sqrt.js",
+    "version": "0.0.1",
+    "engines": {
+        "node": ">=0.8.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/karma-runner"
+    },
+    "devDependencies": {
+        "karma": "~0.10.2",
+        "karma-coverage": "~0.1.0",
+        "grunt": "~0.4.1",
+        "grunt-karma": "~0.6.2",
+		"grunt-contrib-jshint": "~0.6.0",
+		"jshint-html-reporter": "~0.2.3",
+		"karma-ie-launcher": "~0.1"
+    },
+    "scripts": {
+        "test": "grunt karma:test"
+    }
+}
